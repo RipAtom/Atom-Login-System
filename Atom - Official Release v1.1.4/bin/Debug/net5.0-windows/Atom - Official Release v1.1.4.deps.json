@@ -1,0 +1,83 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Atom - Official Release v1.1.4/1.0.0": {
+        "dependencies": {
+          "CircularProgressBar": "2.2.0",
+          "MetroModernUI": "1.4.0"
+        },
+        "runtime": {
+          "Atom - Official Release v1.1.4.dll": {}
+        }
+      },
+      "CircularProgressBar/2.2.0": {
+        "dependencies": {
+          "WinFormAnimation": "1.3.0"
+        },
+        "runtime": {
+          "lib/net35-Client/CircularProgressBar.dll": {
+            "assemblyVersion": "2.2.0.0",
+            "fileVersion": "2.2.0.0"
+          }
+        }
+      },
+      "MetroModernUI/1.4.0": {
+        "runtime": {
+          "lib/net/MetroFramework.Design.dll": {
+            "assemblyVersion": "1.4.0.0",
+            "fileVersion": "1.4.0.0"
+          },
+          "lib/net/MetroFramework.Fonts.dll": {
+            "assemblyVersion": "1.4.0.0",
+            "fileVersion": "1.4.0.0"
+          },
+          "lib/net/MetroFramework.dll": {
+            "assemblyVersion": "1.4.0.0",
+            "fileVersion": "1.4.0.0"
+          }
+        }
+      },
+      "WinFormAnimation/1.3.0": {
+        "runtime": {
+          "lib/net35-Client/WinFormAnimation.dll": {
+            "assemblyVersion": "1.3.0.0",
+            "fileVersion": "1.3.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Atom - Official Release v1.1.4/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CircularProgressBar/2.2.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-0GtDQBwuE7ISobEKgdoAxcOSGc8hFV6mrAT1ahBz3WG6VO0gANX5nnl+vcwYeEiHlR0Y61kKC8DNaow2mc7q3g==",
+      "path": "circularprogressbar/2.2.0",
+      "hashPath": "circularprogressbar.2.2.0.nupkg.sha512"
+    },
+    "MetroModernUI/1.4.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-p2F3w8bF1tb0tpkDceEVO65UYMKnJxdQyNxVyl/OjrFZHighicLYZDppKkiqmvBZ10XUi2mqHiIJUzXBP3GElQ==",
+      "path": "metromodernui/1.4.0",
+      "hashPath": "metromodernui.1.4.0.nupkg.sha512"
+    },
+    "WinFormAnimation/1.3.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-CXgMTcaBLBUYsE6dPkO0AJ49/1yyzK20S10lMpOXnci2A+vtYPuZttvZ5B76KSlAB+fRpHM36IEnhamty4J1MQ==",
+      "path": "winformanimation/1.3.0",
+      "hashPath": "winformanimation.1.3.0.nupkg.sha512"
+    }
+  }
+}
